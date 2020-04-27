@@ -1,0 +1,13 @@
+﻿  main.cpp
+d:\joestar\cface\project1\project1\cv_dnn_centerface.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“FaceInfo”的左侧
+d:\joestar\cface\project1\project1\main.cpp(23): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\joestar\cface\project1\project1\main.cpp(25): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  cv_dnn_centerface.cpp
+d:\joestar\cface\project1\project1\cv_dnn_centerface.h(17): warning C4091: “typedef ”: 没有声明变量时忽略“FaceInfo”的左侧
+d:\joestar\cface\project1\project1\cv_dnn_centerface.cpp(6): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\joestar\cface\project1\project1\cv_dnn_centerface.cpp(42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\joestar\cface\project1\project1\cv_dnn_centerface.cpp(126): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+d:\joestar\cface\project1\project1\cv_dnn_centerface.cpp(127): warning C4244: “初始化”: 从“const double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Project1.vcxproj -> D:\Joestar\CFace\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> D:\Joestar\CFace\Project1\x64\Debug\Project1.pdb (Partial PDB)
